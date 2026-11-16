@@ -55,6 +55,6 @@ that's excited me those years ago. However, I'm also excited to tackle projects 
 
 Interested in learning more about my education, experience, and technical skills?
 
-**[View My Resume](images/resume.pdf)**
+**[View My Resume](images/Resume.pdf)**
 
 ---
