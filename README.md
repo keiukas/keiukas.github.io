@@ -4,11 +4,11 @@
  **[GitHub](https://github.com/keiukas)**
  **[LinkedIn](https://www.linkedin.com/in/gangjun-lee/)**
 
-## Hello!
+## **Hello!**
 
 **Computer Science Student** | **Aspiring Software Engineer** | **Interested in Secure Software Development**
 
-Welcome to my portfolio! my name is Gangjun Lee I'm a Computer Science student at the University of Washington Tacoma with an interest in software engineering and building practical applications.
+Welcome to my portfolio! my name is Gangjun Lee, I'm a Computer Science student at the University of Washington Tacoma with an interest in software engineering and building practical applications.
 
 I'm currently developing my programming skills through coursework, personal projects, and independent learning.
 
