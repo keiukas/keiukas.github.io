@@ -17,9 +17,11 @@ I'm currently pursuing a computer science degree with a minor in economics at Un
 was surrounded by computers. The internet fascinated in how it was able to connect people from around the world and host peoples thoughts and ideas.  It launched my interest in 
 computers applications and eventually led me to pursue a computer science degree. As I continue to progress through my program, I'm excited to learn about ways I can create software
 that excited me when I was younger. However, I'm also excited to tackle projects and take professional opportunities that can develop and strengthen my leadership and communication skills.
- 
 
-## 🛠️ Technical Skills
+## 🚀 Projects
+
+This section is a work in progress...
+
 
 | Category | Technologies |
 |---|---|
