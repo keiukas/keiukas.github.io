@@ -5,18 +5,18 @@
 **Computer Science Student | Aspiring Software Engineer | Interested in Secure Software Development**
 - **Email:** gangjun210@gmail.com
 - **GitHub:** https://github.com/keiukas
-- **LinkedIn:** [https://www.linkedin.com/in/gangjun-lee/
+- **LinkedIn:** https://www.linkedin.com/in/gangjun-lee/
 
-Welcome to my portfolio! my name is Gangjun LeeI'm a Computer Science student at the University of Washington Tacoma with an interest in software engineering and building practical applications.
+Welcome to my portfolio! my name is Gangjun Lee I'm a Computer Science student at the University of Washington Tacoma with an interest in software engineering and building practical applications.
 
 I'm currently developing my programming skills through coursework, personal projects, and independent learning.
 
 ## 👨‍💻 About Me
 
 I'm currently pursuing a computer science degree with a minor in economics at University of Washington, Tacoma. I grew up in a family of software developers, so naturally I 
-was surrounded by computers. The internet fascinated in how it was able to connect people from around the world and host peoples thoughts and ideas.  It started my interest in 
-c omputers applications and eventually led me to pursue a computer science degree. As I continue to progress through my program, I'm excited to learn about ways I can programs
-that's excited me those years ago. However, I'm also excited to tackle projects and take professional opportunities that can develop and strengthen my leadership and communication skills.
+was surrounded by computers. The internet fascinated in how it was able to connect people from around the world and host peoples thoughts and ideas.  It launched my interest in 
+computers applications and eventually led me to pursue a computer science degree. As I continue to progress through my program, I'm excited to learn about ways I can create software
+that excited me when I was younger. However, I'm also excited to tackle projects and take professional opportunities that can develop and strengthen my leadership and communication skills.
  
 
 ## 🛠️ Technical Skills
