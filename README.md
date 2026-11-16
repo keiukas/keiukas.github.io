@@ -1,10 +1,10 @@
 <img src="images/headshot.png" alt text ="heashot" width = 200>
 
- **[Email](gangjun210@gmail.com)**
+ &emsp;**[Email](gangjun210@gmail.com)**
  **[GitHub](https://github.com/keiukas)**
  **[LinkedIn](https://www.linkedin.com/in/gangjun-lee/)**
 
- ## Hello!
+## Hello!
 
 **Computer Science Student | Aspiring Software Engineer | Interested in Secure Software Development**
 
