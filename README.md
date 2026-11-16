@@ -1,11 +1,12 @@
 <img src="images/headshot.png" alt text ="heashot" width = 200>
 
-## Hello!
+ **[Email](gangjun210@gmail.com)**
+ **[GitHub](https://github.com/keiukas)**
+ **[LinkedIn](https://www.linkedin.com/in/gangjun-lee/)**
+
+ ## Hello!
 
 **Computer Science Student | Aspiring Software Engineer | Interested in Secure Software Development**
-- **Email:** gangjun210@gmail.com
-- **GitHub:** https://github.com/keiukas
-- **LinkedIn:** https://www.linkedin.com/in/gangjun-lee/
 
 Welcome to my portfolio! my name is Gangjun Lee I'm a Computer Science student at the University of Washington Tacoma with an interest in software engineering and building practical applications.
 
